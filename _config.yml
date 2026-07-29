@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "mint"
 title                    : "Ellen Nagasawa, PhD"
 title_separator          : "-"
 name                     : &name "Ellen Nagasawa"
 description              : &description "Applied linguist, language educator, and Senior Lecturer of Portuguese at Johns Hopkins University"
-url                      : https://ellennagasawa.github.io
+url                      : "https://ellennagasawa.github.io""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ellennagasawa/ellennagasawa.github.io"
 
