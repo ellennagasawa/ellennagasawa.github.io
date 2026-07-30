@@ -13,8 +13,8 @@ title                    : "Ellen Nagasawa, PhD"
 title_separator          : "-"
 name                     : &name "Ellen Nagasawa"
 description              : &description "Applied linguist, language educator, and Senior Lecturer of Portuguese at Johns Hopkins University"
-url                      : "https://ellennagasawa.github.io""
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://ellennagasawa.github.io"
+baseurl                  : ""
 repository               : "ellennagasawa/ellennagasawa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
