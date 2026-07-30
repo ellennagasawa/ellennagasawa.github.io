@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "sunrise"
 title                    : "Ellen Nagasawa, PhD"
 title_separator          : "-"
 name                     : &name "Ellen Nagasawa"
@@ -22,7 +22,7 @@ repository               : "ellennagasawa/ellennagasawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ellen-nagasawa.jpeg"
+  avatar           : "profile.png"
   name             : "Ellen Nagasawa, PhD"
   pronouns         : "she/her"
   bio              : "Applied linguist and Senior Lecturer of Portuguese specializing in language education, assessment, instructional design, and AI-supported pedagogy."
