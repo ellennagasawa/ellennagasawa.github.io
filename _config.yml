@@ -22,7 +22,8 @@ repository               : "ellennagasawa/ellennagasawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ellen-avatar-2026.png"
+  avatar           : "profile
+  .png"
   name             : "Ellen Nagasawa, PhD"
   pronouns         : "she/her"
   bio              : "Applied linguist and Senior Lecturer of Portuguese specializing in language education, assessment, instructional design, and AI-supported pedagogy."
