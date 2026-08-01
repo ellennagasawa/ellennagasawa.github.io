@@ -4,7 +4,7 @@ collection: teaching
 type: "Accelerated Undergraduate Portuguese Course"
 permalink: /teaching/fast-portuguese-romance-speakers
 venue: "Johns Hopkins University"
-date: Fall 2024, Fall 2026
+semester: Fall 2024, Fall 2026
 location: "Baltimore, Maryland"
 excerpt: "An accelerated, immersive introduction to Portuguese designed for students with previous knowledge of Spanish or another Romance language."
 ---
