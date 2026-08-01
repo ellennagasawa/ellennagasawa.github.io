@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Seminar in Applied Linguistics"
 permalink: /teaching/textual-complexity-reading-proficiency
 venue: "Universidade Federal do Rio Grande do Sul"
-date: Fall 2019
+semester: Fall 2019
 location: "Porto Alegre, Brazil"
 excerpt: "A graduate seminar examining reading proficiency, textual complexity, literacy, and the design of reading assessments."
 ---
