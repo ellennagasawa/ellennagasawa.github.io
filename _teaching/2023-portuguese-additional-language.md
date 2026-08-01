@@ -4,7 +4,7 @@ collection: teaching
 type: "Online Undergraduate Teacher-Education Course"
 permalink: /teaching/portuguese-additional-language
 venue: "Universidade do Vale do Rio dos Sinos"
-date: Spring 2023
+semester: Spring 2023
 location: "Online"
 excerpt: "A teacher-education course examining Portuguese as an Additional Language, language policy, inclusive pedagogy, and professional practice."
 ---
