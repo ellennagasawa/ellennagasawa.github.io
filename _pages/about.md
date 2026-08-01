@@ -25,10 +25,3 @@ My work connects language teaching, curriculum and instructional design, languag
 ## Current work
 
 My current work includes modular Portuguese curriculum design, assessment development, AI-supported pedagogy, and the creation of instructional resources for university-level language education.
-
-## Selected links
-
-- [Publications]({{ site.baseurl }}/publications/)
-- [Teaching]({{ site.baseurl }}/teaching/)
-- [Presentations]({{ site.baseurl }}/talks/)
-- [Curriculum vitae]({{ site.baseurl }}/cv/)
