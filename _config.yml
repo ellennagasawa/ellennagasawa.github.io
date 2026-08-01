@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint"
+site_theme               : "constrast"
 title                    : "Ellen Nagasawa, PhD"
 title_separator          : "-"
 name                     : &name "Ellen Nagasawa"
