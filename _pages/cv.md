@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download my complete CV as a PDF]({{ site.baseurl }}/files/Ellen_Nagasawa_CV_2026.pdf)
-
 Education
 ======
 
@@ -97,3 +95,5 @@ Professional service
   publishing as an executive editor and peer reviewer for Brazilian journals
   in applied linguistics, language education, and related fields.
 </p>
+
+[Download my complete CV as a PDF]({{ site.baseurl }}/files/Ellen_Nagasawa_CV_2026.pdf)
