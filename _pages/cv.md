@@ -1,64 +1,99 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my complete CV as a PDF]({{ site.baseurl }}/files/Ellen_Nagasawa_CV_2026.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* MBA in Data Science and Analytics, University of São Paulo, 2025
+* PhD in Applied Linguistics, Federal University of Rio Grande do Sul, 2023
+* MA in Applied Linguistics, Federal University of Rio Grande do Sul, 2018
+* BA in Portuguese and English Language and Literature, 2016
+* BA in Spanish Language and Literature (not finished)
+
+Academic appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024–present: Senior Lecturer of Portuguese, Johns Hopkins University
+* Spring 2025:  Lecturer of Spanish, Georgetown University
+* 2019 - 2025: Assistant Professor – Universidade do Vale do Rio dos Sinos
+* 2013 - 2020: Portuguese and English Language Instructor – Universidade Federal do Rio Grande do Sul
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Portuguese as an Additional Language
+* Language assessment
+* Corpus-informed language testing
+* Textual complexity
+* Language for Specific Purposes
+* Instructional design
+* Educational technology and artificial intelligence
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+<p>
+  Since 2013, I have taught Portuguese, English, and Spanish in higher
+  education in Brazil and the United States. My experience includes
+  Portuguese as an Additional Language, English for Specific and Academic
+  Purposes, language assessment, academic writing, and undergraduate and
+  graduate courses in applied linguistics. I currently teach Portuguese at
+  Johns Hopkins University and have also taught Spanish at Georgetown
+  University.
+</p>
+
+<p>
+  My teaching emphasizes communicative, task-based, culturally responsive,
+  and process-oriented learning. I have designed more than ten online and
+  hybrid courses, including Portuguese Elements I and II, Portuguese as an
+  Additional Language, English for Public Relations, professional and
+  academic writing, and Celpe-Bras preparation courses.
+</p>
+
+<p>
+  <a href="{{ base_path }}/teaching/">View my Teaching Portfolio</a>
+</p>
+
+Professional service
 ======
-* Currently signed in to 43 different slack teams
+
+<p>
+  My professional service centers on language assessment, academic
+  publishing, teacher education, and collaboration within the field of
+  Portuguese as an Additional Language. I have contributed to Celpe-Bras
+  initiatives as a researcher, reviewer, editor, content developer,
+  assessment coordinator, trainer, and communications advisor.
+</p>
+
+<p>
+  I have also served on scientific committees for international conferences,
+  evaluated undergraduate research projects, and contributed to academic
+  publishing as an executive editor and peer reviewer for Brazilian journals
+  in applied linguistics, language education, and related fields.
+</p>
