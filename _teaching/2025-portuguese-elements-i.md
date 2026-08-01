@@ -4,7 +4,7 @@ collection: teaching
 type: "Accelerated Online Portuguese Course"
 permalink: /teaching/portuguese-elements-i
 venue: "Johns Hopkins University"
-date: Summer 2025
+semester: Summer 2025
 location: "Online"
 excerpt: "A self-paced introductory Portuguese course integrating foundational communication, intercultural learning, and interactive online activities."
 ---
