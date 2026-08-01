@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Portuguese Course"
 permalink: /teaching/intermediate-portuguese-ii
 venue: "Johns Hopkins University"
-date: Fall 2024, Fall 2025, Spring 2025, Fall 2026
+semester: Fall 2024, Fall 2025, Spring 2025, Fall 2026
 location: "Baltimore, Maryland"
 excerpt: "An intermediate Portuguese course connecting language development with literature, the arts, contemporary issues, and the cultural diversity of the Lusophone world."
 ---
