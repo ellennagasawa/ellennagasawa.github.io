@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Spanish Course"
 permalink: /teaching/intermediate-spanish-ii
 venue: "Georgetown University"
-date: Spring 2025
+semester: Spring 2025
 location: "Washington, D.C."
 excerpt: "An intermediate Spanish course integrating communication, writing, cultural comparison, global issues, and collaborative projects."
 ---
