@@ -26,9 +26,9 @@ My work connects language teaching, curriculum and instructional design, languag
 
 My current work includes modular Portuguese curriculum design, assessment development, AI-supported pedagogy, and the creation of instructional resources for university-level language education.
 
-### Beyond Academia
+## Beyond Academia
 
-![Members of a long-running book club gathered in person to celebrate finishing another book.](/images/about/book-club.jpeg)
+![Members of a long-running book club gathered in person to celebrate finishing another book.](/images/book-club.jpeg)
 
 *Shared reading, conversation, and community have been part of my weekly life since 2017.*
 
