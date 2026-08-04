@@ -18,6 +18,6 @@ This presentation explored the integration of literary reading and creative writ
 
 The session considered how literary texts can support language development, cultural interpretation, personal response, and creative production in the additional-language classroom.
 
-![Ellen Nagasawa presenting on literary reading and creative writing in Portuguese as an Additional Language at XIV EMEP](/images/talks/xiv-emep-2025-jorge-amado.jpg)
+![Ellen Nagasawa presenting on literary reading and creative writing in Portuguese as an Additional Language at XIV EMEP](images/talks/duke-2025-jorge-amado.jpeg)
 
 *Presentation “Leitura literária e escrita criativa na aula de Português como Língua Adicional: nas areias de Salvador com Jorge Amado” at XIV EMEP, Duke University, August 2025.*
