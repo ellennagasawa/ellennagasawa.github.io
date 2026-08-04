@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer of Portuguese at Johns Hopkins University and an applied linguist specializing in Portuguese as an Additional Language.
+I am a linguist, language educator, and curriculum designer specializing in Portuguese as an Additional Language, language assessment, and instructional design. I currently serve as a Senior Lecturer of Portuguese at Johns Hopkins University.
 
-My work connects language teaching, curriculum and instructional design, language assessment, corpus-informed research, and the critical use of educational technology and artificial intelligence.
+Originally from Brazil, I have taught languages in both Brazil and the United States since 2013. Working across countries, institutions, and languages has shaped how I understand teaching: as a space for communication, cultural discovery, intellectual growth, and belonging. As a multilingual educator, I am especially interested in how learners build confidence while navigating new languages and unfamiliar academic and cultural environments.
+
+My teaching is grounded in communicative, task-based, genre-based, and culturally responsive approaches. I strive to create welcoming learning environments where students can take risks, collaborate, think critically, and understand mistakes as a natural part of learning.
+
+My research and professional work focus on Portuguese as an Additional Language, Celpe-Bras, textual and task complexity, corpus-informed language assessment, Portuguese for Specific Purposes, and digital course design. I have taught and designed courses in Portuguese, English, and Spanish, from introductory language instruction to graduate seminars in Applied Linguistics.
+
+I am also continually developing new skills. My current interests include responsible uses of artificial intelligence in education, modular and asynchronous course design, Python programming, and computational approaches to Portuguese-language text analysis. Through my public [Portuguese Text Analysis Lab](https://github.com/ellennagasawa/portuguese-text-analysis-lab), I document part of this ongoing learning process.
+
+Across my teaching, research, and curriculum-development work, I aim to connect rigorous academic inquiry with practical, inclusive, and meaningful learning experiences.
 
 ## Research and professional interests
 
