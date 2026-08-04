@@ -35,8 +35,44 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+  {% if post.display_date %}
+  <p class="page__meta">
+    <i class="fa fa-calendar" aria-hidden="true"></i>
+    {{ post.display_date }}
+  </p>
+{% elsif post.date %}
+  <p class="page__meta">
+    <i class="fa fa-calendar" aria-hidden="true"></i>
+    {{ post.date | date: "%B %d, %Y" }}
+  </p>
+{% endif %}
+
+{% if post.venue %}
+  <p class="archive__item-excerpt" itemprop="description">
+    {{ post.type }}, <i>{{ post.venue }}</i>
+
+    {% if post.role %}
+      <br><strong>Contribution:</strong> {{ post.role }}
+    {% endif %}
+
+    {% if post.presented_by %}
+      <br><strong>Presented by:</strong> {{ post.presented_by }}
+    {% endif %}
+
+    {% if post.presentation_mode %}
+      <br><strong>Format:</strong> {{ post.presentation_mode }}
+    {% endif %}
+
+    {% if post.location %}
+      <br><strong>Location:</strong> {{ post.location }}
+    {% endif %}
+  </p>
+{% endif %}
+
+{% if post.excerpt %}
+  <p class="archive__item-excerpt" itemprop="description">
+    {{ post.excerpt | markdownify }}
+  </p>
+{% endif %}
   </article>
 </div>
