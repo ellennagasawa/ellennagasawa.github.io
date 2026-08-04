@@ -1,22 +1,22 @@
 var addressPoints = [
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    51.5074456,
+    -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Artificial Intelligence as a Pedagogical Partner in Modular Portuguese Course Design<br />XV EMEP \u2014 Encontro Mundial sobre o Ensino de Portugu\u00eas; Lawrence, Kansas",
+    38.9719137,
+    -95.2359403
+  ],
+  [
+    "Collaborative Course Design with AI in Language Education<br />108th Annual Conference of the American Association of Teachers of Spanish and Portuguese; Orlando, Florida",
+    28.5421218,
+    -81.379045
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
   ]
 ];
