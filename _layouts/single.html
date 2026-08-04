@@ -41,6 +41,47 @@ layout: default
       , {{ page.semester }}
     {% endif %}
   </p>
+          {% if page.collection == 'teaching' %}
+  <p>
+    {{ page.type }}, <i>{{ page.venue }}</i>
+    {% if page.semester %}, {{ page.semester }}{% endif %}
+  </p>
+
+{% elsif page.collection == 'talks' %}
+  <p>
+    {{ page.type }}, <i>{{ page.venue }}</i>
+
+    {% if page.display_date %}
+      , {{ page.display_date }}
+    {% endif %}
+
+    {% if page.role %}
+      <br><strong>Contribution:</strong> {{ page.role }}
+    {% endif %}
+
+    {% if page.presented_by %}
+      <br><strong>Presented by:</strong> {{ page.presented_by }}
+    {% endif %}
+
+    {% if page.presentation_mode %}
+      <br><strong>Format:</strong> {{ page.presentation_mode }}
+    {% endif %}
+
+    {% if page.session_time %}
+      <br><strong>Session time:</strong> {{ page.session_time }}
+    {% endif %}
+
+    {% if page.location %}
+      <br><strong>Location:</strong> {{ page.location }}
+    {% endif %}
+  </p>
+
+{% elsif page.venue and page.date %}
+  <p>
+    Published in <i>{{ page.venue }}</i>,
+    {{ page.date | date: "%Y" }}
+  </p>
+{% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
