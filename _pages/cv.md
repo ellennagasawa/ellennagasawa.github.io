@@ -96,4 +96,23 @@ Professional service
   in applied linguistics, language education, and related fields.
 </p>
 
-[Download my complete CV as a PDF]({{ site.baseurl }}/files/Ellen_Nagasawa_CV_2026.pdf)
+<p>
+  <a
+    href="/files/Ellen_Nagasawa_CV_2026.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Download my academic CV in English
+  </a>
+</p>
+
+<p>
+  <a
+    href="https://lattes.cnpq.br/3656870677132564"
+    target="_blank"
+    rel="noopener noreferrer"
+    lang="pt"
+  >
+    View my complete Currículo Lattes in Portuguese
+  </a>
+</p>
