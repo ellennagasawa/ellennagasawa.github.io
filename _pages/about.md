@@ -13,7 +13,7 @@ Across universities and educational organizations in Brazil and the United State
 
 I hold a PhD in Applied Linguistics and an MBA in Data Science and Analytics. This interdisciplinary background allows me to combine linguistic and pedagogical expertise with qualitative and quantitative research, assessment, technology, and data-informed improvement.
 
-My professional experience also includes serving as Head Editor for Human Sciences at RevUFRGS since 2020, where I coordinate editorial workflows involving authors, reviewers, and editorial collaborators. This role strengthened my experience in collaborative leadership, quality assurance, deadline management, and the coordination of complex projects involving multiple contributors.
+My professional experience also includes serving as Head Editor for Human Sciences at RevUERGS since 2020, where I coordinate editorial workflows involving authors, reviewers, and editorial collaborators. This role strengthened my experience in collaborative leadership, quality assurance, deadline management, and the coordination of complex projects involving multiple contributors.
 
 I am also continually developing new skills. My current interests include responsible uses of artificial intelligence in education, modular and asynchronous course design, Python programming, and computational approaches to Portuguese-language text analysis. Through my public [Portuguese Text Analysis Lab](https://github.com/ellennagasawa/portuguese-text-analysis-lab), I document part of this ongoing learning process.
 
