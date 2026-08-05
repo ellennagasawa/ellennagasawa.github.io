@@ -9,13 +9,15 @@ redirect_from:
 
 I am an applied linguist, language educator, curriculum and assessment specialist, and Senior Lecturer of Portuguese at Johns Hopkins University. My work connects language teaching, educational research, curriculum development, language assessment, digital learning, and multilingual communication.
 
-Across universities and educational organizations in Brazil and the United States, I have designed, taught, reviewed, and evaluated learning experiences in Portuguese, English, and Spanish. I am particularly interested in how research, technology, and data can support inclusive, reliable, and meaningful language-learning experiences. 
+Across universities and educational organizations in Brazil and the United States, for 10+ years, I have designed, taught, reviewed, and evaluated learning experiences in Portuguese, English, and Spanish. I am particularly interested in how research, technology, and data can support inclusive, reliable, and meaningful language-learning experiences. 
 
 I hold a PhD in Applied Linguistics and an MBA in Data Science and Analytics. This interdisciplinary background allows me to combine linguistic and pedagogical expertise with qualitative and quantitative research, assessment, technology, and data-informed improvement.
 
+My professional experience also includes serving as Head Editor for Human Sciences at RevUFRGS since 2020, where I coordinate editorial workflows involving authors, reviewers, and editorial collaborators. This role strengthened my experience in collaborative leadership, quality assurance, deadline management, and the coordination of complex projects involving multiple contributors.
+
 I am also continually developing new skills. My current interests include responsible uses of artificial intelligence in education, modular and asynchronous course design, Python programming, and computational approaches to Portuguese-language text analysis. Through my public [Portuguese Text Analysis Lab](https://github.com/ellennagasawa/portuguese-text-analysis-lab), I document part of this ongoing learning process.
 
-Across my teaching, research, and curriculum-development work, I aim to translate complex ideas into clear learning experiences, develop rigorous and culturally responsive materials and assessments, and collaborate effectively with educators, researchers, editors, developers, and other professional partners.
+Across my teaching, research, assessment, and curriculum-development work, I aim to translate complex ideas into clear and meaningful learning experiences and to collaborate effectively with educators, researchers, editors, developers, and other professional partners.
 
 ### Areas of Practice
 
