@@ -95,7 +95,13 @@ Professional service
   publishing as an executive editor and peer reviewer for Brazilian journals
   in applied linguistics, language education, and related fields.
 </p>
+<p>
+  ### Digital Course Validation and Quality Assurance
 
+As part of my work with Cebraspe and Celpe-Bras, I reviewed and validated an online training course for oral examiners. Working from the learner perspective, I tested the course content and activities, reviewed language and instructional accuracy, identified incorrectly configured answer selections, and evaluated whether the course functioned as intended.
+
+This work required close collaboration with faculty content authors and a technical developer and combined language review, assessment expertise, digital-content quality assurance, issue documentation, and post-revision verification.
+</p>
 <p>
   <a
     href="/files/Ellen_Nagasawa_CV_2026.pdf"
