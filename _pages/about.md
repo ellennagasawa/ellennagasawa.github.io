@@ -7,32 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a linguist, language educator, and curriculum designer specializing in Portuguese as an Additional Language, language assessment, and instructional design. I currently serve as a Senior Lecturer of Portuguese at Johns Hopkins University.
+I am an applied linguist, language educator, curriculum and assessment specialist, and Senior Lecturer of Portuguese at Johns Hopkins University. My work connects language teaching, educational research, curriculum development, language assessment, digital learning, and multilingual communication.
 
-Originally from Brazil, I have taught languages in both Brazil and the United States since 2013. Working across countries, institutions, and languages has shaped how I understand teaching: as a space for communication, cultural discovery, intellectual growth, and belonging. As a multilingual educator, I am especially interested in how learners build confidence while navigating new languages and unfamiliar academic and cultural environments.
+Across universities and educational organizations in Brazil and the United States, I have designed, taught, reviewed, and evaluated learning experiences in Portuguese, English, and Spanish. I am particularly interested in how research, technology, and data can support inclusive, reliable, and meaningful language-learning experiences. 
 
-My teaching is grounded in communicative, task-based, genre-based, and culturally responsive approaches. I strive to create welcoming learning environments where students can take risks, collaborate, think critically, and understand mistakes as a natural part of learning.
-
-My research and professional work focus on Portuguese as an Additional Language, Celpe-Bras, textual and task complexity, corpus-informed language assessment, Language for Specific Purposes, and digital course design. I have taught and designed courses in Portuguese, English, and Spanish, from introductory language instruction to graduate seminars in Applied Linguistics.
+I hold a PhD in Applied Linguistics and an MBA in Data Science and Analytics. This interdisciplinary background allows me to combine linguistic and pedagogical expertise with qualitative and quantitative research, assessment, technology, and data-informed improvement.
 
 I am also continually developing new skills. My current interests include responsible uses of artificial intelligence in education, modular and asynchronous course design, Python programming, and computational approaches to Portuguese-language text analysis. Through my public [Portuguese Text Analysis Lab](https://github.com/ellennagasawa/portuguese-text-analysis-lab), I document part of this ongoing learning process.
 
-Across my teaching, research, and curriculum-development work, I aim to connect rigorous academic inquiry with practical, inclusive, and meaningful learning experiences.
+Across my teaching, research, and curriculum-development work, I aim to translate complex ideas into clear learning experiences, develop rigorous and culturally responsive materials and assessments, and collaborate effectively with educators, researchers, editors, developers, and other professional partners.
 
-## Research and professional interests
+### Areas of Practice
 
-- Portuguese as an Additional Language
-- Language assessment and the Celpe-Bras examination
-- Corpus-informed language testing
-- Textual and linguistic complexity
-- Language for Specific Purposes
-- Instructional design
-- AI-supported language pedagogy
-- Teacher education and professional development
-
-## Current work
-
-My current work includes modular Portuguese curriculum design, assessment development, AI-supported pedagogy, and the creation of instructional resources for university-level language education.
+- **Language Education and Curriculum:** learner-centered course design, modular learning, online and hybrid instruction, instructional materials, and educator development.
+- **Language Assessment and Validation:** task and assessment design, examiner preparation, course and content validation, quality standards, and research on validity, fairness, and textual complexity.
+- **Digital Learning and Quality Assurance:** learning-platform review, learner-perspective testing, content editing, issue documentation, post-revision verification, and collaboration with technical specialists.
+- **Applied Linguistics and Research:** Portuguese as an Additional Language, language for specific purposes, corpus-informed research, textual analysis, and multilingual communication.
+- **Technology, Data, and AI:** responsible AI use in education, Python-based text analysis, digital course production, workflow development, and computational approaches to language research.
 
 ## Beyond Academia
 
