@@ -29,13 +29,7 @@ Across my teaching, research, assessment, and curriculum-development work, I aim
 
 ## Beyond Academia
 
-![Members of a long-running book club gathered in person to celebrate finishing another book.](/images/book-club.jpeg)
-
-*Reading Out Loud Book Club*
-
-Since 2017, I have belonged to a book club with academic friends, most of whom are language teachers and university professors. I started the group when my daughter was about six years old and beginning to read independently in English. I wanted her to experience reading not only as a private and intimate activity, but also as a social practice shaped by listening, interpretation, conversation, and shared discovery.
-
-We began by reading the entire *Harry Potter* series. Since then, our reading has focused largely on fantasy and speculative fiction, especially works by women and authors from historically underrepresented backgrounds. We are drawn to books that explore language, culture, identity, belonging, power, memory, and different ways of imagining the world.
+Since 2017, I have a book club with academic friends, most of whom are language teachers and university professors. I started the group when my daughter was about six years old and beginning to read independently in English. I wanted her to experience reading not only as a private and intimate activity, but also as a social practice shaped by listening, interpretation, conversation, and shared discovery. We began by reading the entire *Harry Potter* series. Since then, our reading has focused largely on fantasy, especially works by women and authors from historically underrepresented backgrounds. We are drawn to books that explore language, culture, identity, belonging, power, memory, and different ways of imagining the world.
 
 I also enjoy yoga and reflective practices that create space for balance, attention, and continued personal growth. Most of all, I value spending time with my husband, daughter, and cat.
 
